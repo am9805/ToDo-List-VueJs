@@ -1,0 +1,10 @@
+This are my notes about what i'm learning with VueJs
+
+1. What is VueJs? 
+R\\ For me, Vue is a pretty simple javascript framework, why? because you can use it as library, as it is and also, you can use it with
+it CLI (i haven't study it yet). I didn't know much about frameworks, i know how they are th
+2. 
+
+3. What are Vue directives?
+R\\
+4. How many Vue directives are there? and ¿what does  each one do?
